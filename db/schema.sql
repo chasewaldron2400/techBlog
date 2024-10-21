@@ -1,0 +1,3 @@
+-- Active: 1723505728753@@127.0.0.1@5432@crowdfund_db
+DROP DATABASE IF EXISTS tech_db;
+CREATE DATABASE tech_db;
